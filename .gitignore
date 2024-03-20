@@ -29,7 +29,6 @@ devel_isolated/
 .project
 .cproject
 
-# qcreator stuff
 CMakeLists.txt.user
 
 srv/_*.py
